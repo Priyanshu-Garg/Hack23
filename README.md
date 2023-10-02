@@ -5,4 +5,4 @@ This repository aims to help code beginners with their first successful pull req
 
 ⭐ Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.
 
-This repository is open to all members of the GitHub community. Any member can contribute to this project! 😁 👉 Repo Link : https://github.com/Priyanshu-Garg/Hack23
+As a maintainer this repository is open to all members of the GitHub community. Any member can contribute to this project! 😁 👉 Repo Link : https://github.com/Priyanshu-Garg/Hack23
